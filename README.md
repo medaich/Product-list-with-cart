@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/medaich/Product-list-with-cart)
+- Live Site URL: [Vercel](https://product-list-with-cart-green.vercel.app/)
 
 ## My process
 
