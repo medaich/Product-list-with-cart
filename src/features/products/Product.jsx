@@ -29,6 +29,7 @@ function Product({ product }) {
   return (
     <li>
       <section>
+        <h2 className="invisible">Product</h2>
         <div className="relative mb-10">
           <picture>
             <source media="(min-width:1024px)" srcSet={product.image.desktop} />
