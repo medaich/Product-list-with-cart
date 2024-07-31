@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+
+  "ignorePatterns": [
+    "tailwind.config.js",
+    "postcss.config.js",
+    "vite.config.js"
+  ]
+}
